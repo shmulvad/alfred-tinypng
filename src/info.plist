@@ -1,0 +1,895 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleid</key>
+	<string>com.shmulvad.tinypng</string>
+	<key>category</key>
+	<string>Tools</string>
+	<key>connections</key>
+	<dict>
+		<key>1D003C45-8A05-4FD1-9122-28A86341D601</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>344EAAA8-B201-4852-AC2A-994E64BA9BC8</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>29A022FF-5B55-4F2E-9CB4-4EA11DCE1737</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>FBD9302D-2DAF-4543-8644-8E1F651E18D7</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>FF387BD8-8FA5-43D4-8625-18E8FEC005F1</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>9E005276-6F57-411F-8092-ACF861555E9E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>2EDE0B61-39A1-44E7-AC80-B01D1643FC49</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>B3DE48F1-5C64-4D60-B759-E6C028F40895</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>FF387BD8-8FA5-43D4-8625-18E8FEC005F1</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>5DE8F687-0345-424C-8B4E-96AEC9A041F1</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>C1CD15DF-59E1-4C26-8EA9-D6274E33970B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>344EAAA8-B201-4852-AC2A-994E64BA9BC8</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>9B325457-7D17-4CEE-8615-D421B1E3A7C0</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>FF387BD8-8FA5-43D4-8625-18E8FEC005F1</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>991873FA-814B-4A74-BF79-218C85B4E177</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>DD844DB4-0241-4342-8994-1615E086D24B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>57BF7C01-47B4-4E01-83D3-27EC352B5232</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>29A022FF-5B55-4F2E-9CB4-4EA11DCE1737</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>9A07CE35-0F7E-432E-B156-078B0BD59F9D</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>991873FA-814B-4A74-BF79-218C85B4E177</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>2EDE0B61-39A1-44E7-AC80-B01D1643FC49</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>9CF53AD1-9D62-4547-B52C-398FF0B2BC12</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>3CA61BAD-685A-4139-A2F9-E77AF0395746</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>9E005276-6F57-411F-8092-ACF861555E9E</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>266CC1F0-F874-47AE-9083-24AA47A8B887</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>9CF53AD1-9D62-4547-B52C-398FF0B2BC12</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>FBD9302D-2DAF-4543-8644-8E1F651E18D7</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>1D003C45-8A05-4FD1-9122-28A86341D601</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
+	<key>createdby</key>
+	<string>Søren Mulvad</string>
+	<key>description</key>
+	<string>Compress png and jpg images using TinyPNG</string>
+	<key>disabled</key>
+	<false/>
+	<key>name</key>
+	<string>TinyPNG</string>
+	<key>objects</key>
+	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>https://tinypng.com/developers</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>9B325457-7D17-4CEE-8615-D421B1E3A7C0</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>The API key doesn't seem to be valid. Please get a new API key.</string>
+				<key>title</key>
+				<string>Error</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>B3DE48F1-5C64-4D60-B759-E6C028F40895</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>set bundleID to (system attribute "alfred_workflow_bundleid")
+
+tell application id "com.runningwithcrayons.Alfred"
+    set configuration "API_KEY" to value "{query}" in workflow bundleID
+end tell</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>5DE8F687-0345-424C-8B4E-96AEC9A041F1</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<false/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>escaping</key>
+				<integer>127</integer>
+				<key>keyword</key>
+				<string>tinypng_api</string>
+				<key>queuedelaycustom</key>
+				<integer>1</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<false/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Loading options...</string>
+				<key>script</key>
+				<string>"$pythonDir" tiny_key_options.py {query}</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string>Sets/changes API key</string>
+				<key>title</key>
+				<string>Set/change API key or get a new one</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>1D003C45-8A05-4FD1-9122-28A86341D601</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>"$pythonDir" tiny_validate.py {query}</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>991873FA-814B-4A74-BF79-218C85B4E177</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string>{query}</string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string>WEBSITE</string>
+						<key>outputlabel</key>
+						<string>website</string>
+						<key>uid</key>
+						<string>FF387BD8-8FA5-43D4-8625-18E8FEC005F1</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string>api_key</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>344EAAA8-B201-4852-AC2A-994E64BA9BC8</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string>{query}</string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>4</integer>
+						<key>matchstring</key>
+						<string>ERROR</string>
+						<key>outputlabel</key>
+						<string>error</string>
+						<key>uid</key>
+						<string>FF387BD8-8FA5-43D4-8625-18E8FEC005F1</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string>succes</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>2EDE0B61-39A1-44E7-AC80-B01D1643FC49</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>FBD9302D-2DAF-4543-8644-8E1F651E18D7</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>TinyPNG API key was succesfully set!</string>
+				<key>title</key>
+				<string>Succes</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>C1CD15DF-59E1-4C26-8EA9-D6274E33970B</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>Validating...</string>
+				<key>title</key>
+				<string>Validating key...</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>DD844DB4-0241-4342-8994-1615E086D24B</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>Starting the compression/resizing</string>
+				<key>title</key>
+				<string>Starting...</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>266CC1F0-F874-47AE-9083-24AA47A8B887</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<false/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>escaping</key>
+				<integer>127</integer>
+				<key>keyword</key>
+				<string>tinypng</string>
+				<key>queuedelaycustom</key>
+				<integer>1</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<false/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Calculating...</string>
+				<key>script</key>
+				<string>"$pythonDir" tiny_options.py {query}</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string>Compress or resize images with TinyPNG</string>
+				<key>title</key>
+				<string>Compress or resize images</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>57BF7C01-47B4-4E01-83D3-27EC352B5232</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>osascript getPath.scpt {query} $API_KEY</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>9E005276-6F57-411F-8092-ACF861555E9E</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string>{query}</string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>4</integer>
+						<key>matchstring</key>
+						<string>API_KEY</string>
+						<key>outputlabel</key>
+						<string>api_key</string>
+						<key>uid</key>
+						<string>FF387BD8-8FA5-43D4-8625-18E8FEC005F1</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string>else</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>29A022FF-5B55-4F2E-9CB4-4EA11DCE1737</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>{query}</string>
+				<key>title</key>
+				<string>Status</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>3CA61BAD-685A-4139-A2F9-E77AF0395746</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>"$pythonDir" tiny_upload.py {query}</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>9CF53AD1-9D62-4547-B52C-398FF0B2BC12</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string># THESE VARIABLES MUST BE SET. SEE THE ONEUPDATER README FOR AN EXPLANATION OF EACH.
+readonly remote_info_plist='https://raw.githubusercontent.com/shmulvad/alfred-tinypng/master/src/info.plist'
+readonly workflow_url='shmulvad/alfred-tinypng'
+readonly download_type='github_release'
+readonly frequency_check='4'
+
+# FROM HERE ON, CODE SHOULD BE LEFT UNTOUCHED!
+function abort {
+  echo "${1}" &gt;&amp;2
+  exit 1
+}
+
+function url_exists {
+  curl --silent --location --output /dev/null --fail --range 0-0 "${1}"
+}
+
+function notification {
+  readonly local notificator="$(find . -type d -name 'Notificator.app')"
+  if [[ -n "${notificator}" ]]; then
+    "${notificator}/Contents/Resources/Scripts/notificator" --message "${1}" --title "${alfred_workflow_name}" --subtitle 'A new version is available'
+    return
+  fi
+
+  readonly local terminal_notifier="$(find . -type f -name 'terminal-notifier')"
+  if [[ -n "${terminal_notifier}" ]]; then
+    "${terminal_notifier}" -title "${alfred_workflow_name}" -subtitle 'A new version is available' -message "${1}"
+    return
+  fi
+
+  osascript -e "display notification \"${1}\" with title \"${alfred_workflow_name}\" subtitle \"A new version is available\""
+}
+
+# Local sanity checks
+readonly local_info_plist='info.plist'
+readonly local_version="$(/usr/libexec/PlistBuddy -c 'print version' "${local_info_plist}")"
+
+[[ -n "${local_version}" ]] || abort 'You need to set a workflow version in the configuration sheet.'
+[[ "${download_type}" =~ ^(direct|page|github_release)$ ]] || abort "'download_type' (${download_type}) needs to be one of 'direct', 'page', or 'github_release'."
+[[ "${frequency_check}" =~ ^[0-9]+$ ]] || abort "'frequency_check' (${frequency_check}) needs to be a number."
+
+# Check for updates
+if [[ $(find "${local_info_plist}" -mtime +"${frequency_check}"d) ]]; then
+  if ! url_exists "${remote_info_plist}"; then abort "'remote_info_plist' (${remote_info_plist}) appears to not be reachable."; fi # Remote sanity check
+
+  readonly tmp_file="$(mktemp)"
+  curl --silent --location --output "${tmp_file}" "${remote_info_plist}"
+  readonly remote_version="$(/usr/libexec/PlistBuddy -c 'print version' "${tmp_file}")"
+
+  if [[ "${local_version}" == "${remote_version}" ]]; then
+    touch "${local_info_plist}" # Reset timer by touching local file
+    exit 0
+  fi
+
+  if [[ "${download_type}" == 'page' ]]; then
+    notification 'Opening download page…'
+    open "${workflow_url}"
+    exit 0
+  fi
+
+  download_url="$([[ "${download_type}" == 'github_release' ]] &amp;&amp; curl --silent "https://api.github.com/repos/${workflow_url}/releases/latest" | grep 'browser_download_url' | head -1 | sed -E 's/.*browser_download_url": "(.*)"/\1/' || echo "${workflow_url}")"
+
+  if url_exists "${download_url}"; then
+    notification 'Downloading and installing…'
+    curl --silent --location --output "${HOME}/Downloads/${alfred_workflow_name}.alfredworkflow" "${download_url}"
+    open "${HOME}/Downloads/${alfred_workflow_name}.alfredworkflow"
+  else
+    abort "'workflow_url' (${download_url}) appears to not be reachable."
+  fi
+fi</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>9A07CE35-0F7E-432E-B156-078B0BD59F9D</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+	</array>
+	<key>readme</key>
+	<string>An Alfred 4 workflow for quickly compressing and resizing images using TinyPNG. Simply select a collection of images or a folder in Finder and activate the workflow.
+
+Select either a folder, image file or a number of image files in Finder. Afterward, open Alfred and type tinypng. You are presented with several options.
+
+Choose an item based on what you want. When selected, the workflow will start compressing/resizing the image(s). After it is done, they will be saved to the same directory and with the same filename as the original image. The original image will be preserved with .bak prepended before the file extension. I.e. if compressing img.jpg, this will now become img.bak.jpg and the compressed image will be saved as img.jpg.
+
+Refer to the TinyPNG documentation for a full explanation of the different resizing options.</string>
+	<key>uidata</key>
+	<dict>
+		<key>1D003C45-8A05-4FD1-9122-28A86341D601</key>
+		<dict>
+			<key>note</key>
+			<string>Python script to get API items</string>
+			<key>xpos</key>
+			<integer>135</integer>
+			<key>ypos</key>
+			<integer>155</integer>
+		</dict>
+		<key>266CC1F0-F874-47AE-9083-24AA47A8B887</key>
+		<dict>
+			<key>xpos</key>
+			<integer>755</integer>
+			<key>ypos</key>
+			<integer>565</integer>
+		</dict>
+		<key>29A022FF-5B55-4F2E-9CB4-4EA11DCE1737</key>
+		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
+			<key>ypos</key>
+			<integer>640</integer>
+		</dict>
+		<key>2EDE0B61-39A1-44E7-AC80-B01D1643FC49</key>
+		<dict>
+			<key>xpos</key>
+			<integer>630</integer>
+			<key>ypos</key>
+			<integer>175</integer>
+		</dict>
+		<key>344EAAA8-B201-4852-AC2A-994E64BA9BC8</key>
+		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
+			<key>ypos</key>
+			<integer>175</integer>
+		</dict>
+		<key>3CA61BAD-685A-4139-A2F9-E77AF0395746</key>
+		<dict>
+			<key>xpos</key>
+			<integer>900</integer>
+			<key>ypos</key>
+			<integer>690</integer>
+		</dict>
+		<key>57BF7C01-47B4-4E01-83D3-27EC352B5232</key>
+		<dict>
+			<key>note</key>
+			<string>Python script to get main items</string>
+			<key>xpos</key>
+			<integer>135</integer>
+			<key>ypos</key>
+			<integer>620</integer>
+		</dict>
+		<key>5DE8F687-0345-424C-8B4E-96AEC9A041F1</key>
+		<dict>
+			<key>note</key>
+			<string>Set variable</string>
+			<key>xpos</key>
+			<integer>755</integer>
+			<key>ypos</key>
+			<integer>155</integer>
+		</dict>
+		<key>991873FA-814B-4A74-BF79-218C85B4E177</key>
+		<dict>
+			<key>note</key>
+			<string>Validate API key</string>
+			<key>xpos</key>
+			<integer>465</integer>
+			<key>ypos</key>
+			<integer>155</integer>
+		</dict>
+		<key>9A07CE35-0F7E-432E-B156-078B0BD59F9D</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>12</integer>
+			<key>note</key>
+			<string>OneUpdater</string>
+			<key>xpos</key>
+			<integer>755</integer>
+			<key>ypos</key>
+			<integer>1045</integer>
+		</dict>
+		<key>9B325457-7D17-4CEE-8615-D421B1E3A7C0</key>
+		<dict>
+			<key>xpos</key>
+			<integer>465</integer>
+			<key>ypos</key>
+			<integer>25</integer>
+		</dict>
+		<key>9CF53AD1-9D62-4547-B52C-398FF0B2BC12</key>
+		<dict>
+			<key>note</key>
+			<string>Try upload</string>
+			<key>xpos</key>
+			<integer>755</integer>
+			<key>ypos</key>
+			<integer>690</integer>
+		</dict>
+		<key>9E005276-6F57-411F-8092-ACF861555E9E</key>
+		<dict>
+			<key>note</key>
+			<string>AppleScript - Gets the selected file</string>
+			<key>xpos</key>
+			<integer>465</integer>
+			<key>ypos</key>
+			<integer>630</integer>
+		</dict>
+		<key>B3DE48F1-5C64-4D60-B759-E6C028F40895</key>
+		<dict>
+			<key>xpos</key>
+			<integer>755</integer>
+			<key>ypos</key>
+			<integer>25</integer>
+		</dict>
+		<key>C1CD15DF-59E1-4C26-8EA9-D6274E33970B</key>
+		<dict>
+			<key>xpos</key>
+			<integer>755</integer>
+			<key>ypos</key>
+			<integer>300</integer>
+		</dict>
+		<key>DD844DB4-0241-4342-8994-1615E086D24B</key>
+		<dict>
+			<key>xpos</key>
+			<integer>465</integer>
+			<key>ypos</key>
+			<integer>305</integer>
+		</dict>
+		<key>FBD9302D-2DAF-4543-8644-8E1F651E18D7</key>
+		<dict>
+			<key>xpos</key>
+			<integer>95</integer>
+			<key>ypos</key>
+			<integer>185</integer>
+		</dict>
+	</dict>
+	<key>variables</key>
+	<dict>
+		<key>API_KEY</key>
+		<string>xNs7dYW1RQ7xZqYCJyP9TQXscTwnyFKn
+</string>
+		<key>pythonDir</key>
+		<string>/usr/local/anaconda3/bin/python</string>
+	</dict>
+	<key>variablesdontexport</key>
+	<array>
+		<string>API_KEY</string>
+	</array>
+	<key>version</key>
+	<string>1.0.0</string>
+	<key>webaddress</key>
+	<string>www.shmulvad.com</string>
+</dict>
+</plist>
