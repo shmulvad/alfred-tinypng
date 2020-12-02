@@ -1,10 +1,10 @@
 # Alfred TinyPNG
 
-[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/shmulvad/alfred-tinypng?sort=semver&style=flat-square)](https://github.com/shmulvad/alfred-tinypng/releases)
+[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/shmulvad/alfred-tinypng?sort=semver&style=flat-square)][releases]
 ![Languages supported](https://img.shields.io/badge/python-3.4%20%7C%203.5%20%7C%203.6%20%7C%203.7-blue?style=flat-square)
-![GitHub downloads](https://img.shields.io/github/downloads/shmulvad/alfred-tinypng/total?style=flat-square)
-[![GitHub issues](https://img.shields.io/github/issues/shmulvad/alfred-tinypng?style=flat-square)](https://github.com/shmulvad/alfred-tinypng/issues)
-[![GitHub license](https://img.shields.io/github/license/shmulvad/alfred-tinypng?style=flat-square)](https://github.com/shmulvad/alfred-tinypng/blob/master/LICENSE)
+[![GitHub downloads](https://img.shields.io/github/downloads/shmulvad/alfred-tinypng/total?style=flat-square)][releaseLatest]
+[![GitHub issues](https://img.shields.io/github/issues/shmulvad/alfred-tinypng?style=flat-square)][issues]
+[![GitHub license](https://img.shields.io/github/license/shmulvad/alfred-tinypng?style=flat-square)][license]
 
 
 An [Alfred][alfred] workflow for quickly compressing and resizing images using [TinyPNG][tinypng]. Simply select a collection of images or a folder in Finder and activate the workflow.
@@ -17,8 +17,8 @@ An [Alfred][alfred] workflow for quickly compressing and resizing images using [
 
 
 ## Installation and Getting Started
-1. Install [alfred-tinypng][release] workflow.
-2. All further updates are handled automatically.=-rn
+1. Install [alfred-tinypng][releaseLatest] workflow.
+2. All further updates are handled automatically.
 
 You will need to configure the workflow with an API key from TinyPNG. Type `tinypng_api` to get a link to [the page][tinyApi] where you can get your API key and to actually set the key when you have gotten it.
 
@@ -54,9 +54,12 @@ The workflow makes use of the following:
 * [TinyPNG Python API][tinypngApi]
 
 [alfred]: https://www.alfredapp.com/
+[license]: https://github.com/shmulvad/alfred-tinypng/blob/master/LICENSE
+[issues]: https://github.com/shmulvad/alfred-tinypng/issues
 [tinyApi]: https://tinypng.com/developers
 [tinypng]: https://tinypng.com
-[release]: https://github.com/shmulvad/alfred-tinypng/releases/latest/download/TinyPNG.alfredworkflow
+[releases]: https://github.com/shmulvad/alfred-tinypng/releases
+[releaseLatest]: https://github.com/shmulvad/alfred-tinypng/releases/latest/download/TinyPNG.alfredworkflow
 [oneUpdater]: https://github.com/vitorgalvao/alfred-workflows/tree/master/OneUpdater
 [tinypngApi]: https://tinypng.com/developers/reference/python
 [tinypngOtherAlfred]: https://www.alfredforum.com/topic/1520-tiny-png-workflow-updated-to-v12/
