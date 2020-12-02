@@ -730,13 +730,15 @@ fi</string>
 		</dict>
 	</array>
 	<key>readme</key>
-	<string>An Alfred 4 workflow for quickly compressing and resizing images using TinyPNG. Simply select a collection of images or a folder in Finder and activate the workflow.
+	<string>An Alfred workflow for quickly compressing and resizing images using TinyPNG. Simply select a collection of images or a folder in Finder and activate the workflow.
 
 Select either a folder, image file or a number of image files in Finder. Afterward, open Alfred and type tinypng. You are presented with several options.
 
 Choose an item based on what you want. When selected, the workflow will start compressing/resizing the image(s). After it is done, they will be saved to the same directory and with the same filename as the original image. The original image will be preserved with .bak prepended before the file extension. I.e. if compressing img.jpg, this will now become img.bak.jpg and the compressed image will be saved as img.jpg.
 
-Refer to the TinyPNG documentation for a full explanation of the different resizing options.</string>
+Refer to the TinyPNG documentation for a full explanation of the different resizing options.
+
+NB: The workflow only supports Python 3+. If you have any errors running the code, try changing the `pythonDir` environment variable in the workflow to the the path at which you have Python 3 installed.</string>
 	<key>uidata</key>
 	<dict>
 		<key>1D003C45-8A05-4FD1-9122-28A86341D601</key>
@@ -888,7 +890,7 @@ Refer to the TinyPNG documentation for a full explanation of the different resiz
 		<string>API_KEY</string>
 	</array>
 	<key>version</key>
-	<string>1.0.0</string>
+	<string>1.0.1</string>
 	<key>webaddress</key>
 	<string>www.shmulvad.com</string>
 </dict>

@@ -1,5 +1,5 @@
 # Alfred TinyPNG
-An [Alfred 4][alfred] workflow for quickly compressing and resizing images using [TinyPNG][tinypng]. Simply select a collection of images or a folder in Finder and activate the workflow.
+An [Alfred][alfred] workflow for quickly compressing and resizing images using [TinyPNG][tinypng]. Simply select a collection of images or a folder in Finder and activate the workflow.
 
 <p align="center">
   <img width="1200" height="auto" src="images/compressing.gif?raw=true">
@@ -8,14 +8,16 @@ An [Alfred 4][alfred] workflow for quickly compressing and resizing images using
 
 ## Installation and Getting Started
 1. Install [alfred-tinypng][release] workflow.
-2. All further updates are handled automatically.
-
+2. All further updates are handled automatically.=-rn
 
 You will need to configure the workflow with an API key from TinyPNG. Type `tinypng_api` to get a link to [the page][tinyApi] where you can get your API key and to actually set the key when you have gotten it.
 
 <p align="center">
   <img width="1200" height="auto" src="images/tinypng_api.png?raw=true">
 </p>
+
+The workflow only supports Python 3+. If you have any errors running the code, try changing the `pythonDir` environment variable in the workflow to the the path at which you have Python 3 installed.
+
 
 ## Usage
 Select either a folder, image file or a number of image files in Finder. Afterward, open Alfred and type `tinypng`. You are presented with the following choices:
