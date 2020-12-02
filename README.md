@@ -1,9 +1,19 @@
 # Alfred TinyPNG
+
+[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/shmulvad/alfred-tinypng?sort=semver&style=flat-square)](https://github.com/shmulvad/alfred-tinypng/releases)
+![Languages supported](https://img.shields.io/badge/python-3.4%20%7C%203.5%20%7C%203.6%20%7C%203.7-blue?style=flat-square)
+![GitHub downloads](https://img.shields.io/github/downloads/shmulvad/alfred-tinypng/total?style=flat-square)
+[![GitHub issues](https://img.shields.io/github/issues/shmulvad/alfred-tinypng?style=flat-square)](https://github.com/shmulvad/alfred-tinypng/issues)
+[![GitHub license](https://img.shields.io/github/license/shmulvad/alfred-tinypng?style=flat-square)](https://github.com/shmulvad/alfred-tinypng/blob/master/LICENSE)
+
+
 An [Alfred][alfred] workflow for quickly compressing and resizing images using [TinyPNG][tinypng]. Simply select a collection of images or a folder in Finder and activate the workflow.
 
 <p align="center">
   <img width="1200" height="auto" src="images/compressing.gif?raw=true">
 </p>
+
+⭐ If you find this repo useful, please consider starring it to let me know.
 
 
 ## Installation and Getting Started
@@ -17,7 +27,6 @@ You will need to configure the workflow with an API key from TinyPNG. Type `tiny
 </p>
 
 The workflow only supports Python 3+. If you have any errors running the code, try changing the `pythonDir` environment variable in the workflow to the the path at which you have Python 3 installed.
-
 
 ## Usage
 Select either a folder, image file or a number of image files in Finder. Afterward, open Alfred and type `tinypng`. You are presented with the following choices:
