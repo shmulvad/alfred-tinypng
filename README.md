@@ -1,7 +1,7 @@
 # Alfred TinyPNG
 
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/shmulvad/alfred-tinypng?sort=semver&style=flat-square)][releases]
-![Languages supported](https://img.shields.io/badge/python-3.4%20%7C%203.5%20%7C%203.6%20%7C%203.7-blue?style=flat-square)
+![Languages supported](https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C%203.8-blue?style=flat-square)
 [![GitHub downloads](https://img.shields.io/github/downloads/shmulvad/alfred-tinypng/total?style=flat-square)][releaseLatest]
 [![GitHub issues](https://img.shields.io/github/issues/shmulvad/alfred-tinypng?style=flat-square)][issues]
 [![GitHub license](https://img.shields.io/github/license/shmulvad/alfred-tinypng?style=flat-square)][license]
