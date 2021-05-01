@@ -26,7 +26,7 @@ You will need to configure the workflow with an API key from TinyPNG. Type `tiny
   <img width="1200" height="auto" src="images/tinypng_api.png?raw=true">
 </p>
 
-The workflow only supports Python 3+. If you have any errors running the code, try changing the `pythonDir` environment variable in the workflow to the the path at which you have Python 3 installed.
+The workflow only supports Python 3.6+. If you have any errors running the code, try changing the `pythonDir` workflow variable to the the path at which you have Python 3 installed.
 
 ## Usage
 Select either a folder, image file or a number of image files in Finder. Afterward, open Alfred and type `tinypng`. You are presented with the following choices:
@@ -35,7 +35,7 @@ Select either a folder, image file or a number of image files in Finder. Afterwa
   <img width="1200" height="auto" src="images/tinypng.png?raw=true">
 </p>
 
-Choose an item based on what you want. When selected, the workflow will start compressing/resizing the image(s). After it is done, they will be saved to the same directory and with the same filename as the original image. The original image will be preserved with `.bak` prepended before the file extension. I.e. if compressing `img.jpg`, this will now become `img.bak.jpg` and the compressed image will be saved as `img.jpg`.
+Choose an item based on what you want. When selected, the workflow will start compressing/resizing the image(s). After it is done, they will be saved to the same directory and with the same filename as the original image. By default, the original image will be preserved with `.bak` prepended before the file extension. I.e. if compressing `img.jpg`, this will now become `img.bak.jpg` and the compressed image will be saved as `img.jpg`. You can choose to always override the image(s) by changing the workflow variable `KEEP_BACKUPS` to `False`.
 
 Refer to the TinyPNG documentation for a full explanation of the different resizing options.
 
